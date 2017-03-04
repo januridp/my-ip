@@ -1,0 +1,73 @@
+<style type="text/css">
+    <!--/* CSS Tabs */
+    #navcontainer {
+    background: #6C82B5;
+    border-top: 5px solid #32527A;
+    font: normal normal 12px Verdana, Geneva, Arial, Helvetica, sans-serif;}
+    #navlist {
+    list-style: none outside none;
+    margin: 0px;
+    padding: 0;}
+    @media all {
+    #navlist {
+    text-align: center}}
+    #navlist li {
+    bottom: 0px;
+    display: inline;
+    line-height: 1.2em;
+    margin: 0;
+    padding: 0;
+    position: relative;}
+    html>body #navlist li {
+    background: #000;
+    margin: 0 3px 0 0;
+    padding: 4px 0px 4px 0;}
+    #navlist a, #navlist a:link, #navlist a:visited {
+    background:#999999;
+    border: 1px solid #FFF;
+    bottom: 10px;
+    color: #FFF;
+    cursor: pointer;
+    display: inline;
+    height: 1em;
+    margin: 0;
+    padding: 3px 5px 3px 5px;
+    position: relative;
+    right: 2px;
+    text-decoration: none;}
+    #navlist a:hover {
+    background: #e6e6e6;
+    bottom: 1px;
+    color: #FFF;
+    position: relative;
+    right: 1px;}
+    #navlist a:active {
+    background: pink;
+    bottom: 0px;
+    color: blue;
+    position: relative;
+    right: 0px;}
+    #navlist li#active {
+    background:#369 ;
+    bottom: 1px;
+    display: inline;
+    margin: 0 3px 0 0;
+    padding: 0;
+    position: relative;}
+    html>body #navlist li#active {
+    background: #000;
+    margin: 0 2px 0 2px;}
+    #navlist #active a, #navlist #active a:link, #navlist #active a:visited, #navlist #active a:hover {
+    background: #808080;
+    border-bottom: none;
+    border-left: 1px solid #9CC;
+    border-right: 1px solid #9CC;
+    border-top: 1px solid #9CC;
+    bottom: 10;
+    color: ;
+    cursor: text;
+    margin: 0;
+    padding: 2px 5px 0 5px;
+    position: relative;
+    right: 0;}-->
+    </style>
